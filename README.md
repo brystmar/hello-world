@@ -1,4 +1,4 @@
-# hello-world
+# manifesto
 Don't fear the repo!
 
 Find me at the intersection of food & tech.
